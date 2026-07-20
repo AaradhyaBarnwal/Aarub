@@ -21,3 +21,18 @@ and the bom-
 <h2>And these are the link of timelapses</h2>
 https://lapse.hackclub.com/timelapse/hZQMbSfOvOiV
 https://lapse.hackclub.com/timelapse/cVap4bYE5v2C
+
+
+and the gerber
+| File                                 | Purpose                 | Status  |
+| ------------------------------------ | ----------------------- | ------- |
+| ✅ `Gerber_TopLayer.GTL`              | Top copper              | Present |
+| ✅ `Gerber_BottomLayer.GBL`           | Bottom copper           | Present |
+| ✅ `Gerber_TopSilkscreenLayer.GTO`    | Top silkscreen          | Present |
+| ✅ `Gerber_BottomSilkscreenLayer.GBO` | Bottom silkscreen       | Present |
+| ✅ `Gerber_TopSolderMaskLayer.GTS`    | Top solder mask         | Present |
+| ✅ `Gerber_BottomSolderMaskLayer.GBS` | Bottom solder mask      | Present |
+| ✅ `Gerber_BoardOutlineLayer.GKO`     | Board outline           | Present |
+| ✅ `Drill_PTH_Through.DRL`            | Through-hole drill file | Present |
+| ✅ `Drill_NPTH_Through.DRL`           | Non-plated drill file   | Present |
+| ✅ `Drill_PTH_Through_Via.DRL`        | Via drill file          | Present |

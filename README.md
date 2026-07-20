@@ -12,5 +12,6 @@ and the bom-
 |   4 |   1 | **SL2.1s USB Hub IC**           | U1                              | SSOP-16                        | CoreChips (LCSC **C2684433**) |
 |   5 |   3 | **USB Type-C 16-pin Connector** | USB1, USB2, USB5                | USB-C-SMD_TYPE-C-16PIN-2MD-073 | SHOU HAN (LCSC **C2765186**)  |
 |   6 |   2 | **USB Type-A Connector**        | USB3, USB4                      | USB-A-TH_10.0QHHTZB6.3         | SHOU HAN (LCSC **C668591**)   |
+<br></br>
 [InteractiveBOM_PCB1_2026-7-20.html](https://github.com/user-attachments/files/30184428/InteractiveBOM_PCB1_2026-7-20.html)
 and the above file is a interactive file of the bom

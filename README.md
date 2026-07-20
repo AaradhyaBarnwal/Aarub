@@ -18,3 +18,6 @@ and the bom-
 <H1>and the below file is a interactive file of the bom<h2>
 [InteractiveBOM_PCB1_2026-7-20.html](https://github.com/user-attachments/files/30184428/InteractiveBOM_PCB1_2026-7-20.html)
 
+<h2>And these are the link of timelapses</h2>
+https://lapse.hackclub.com/timelapse/hZQMbSfOvOiV
+https://lapse.hackclub.com/timelapse/cVap4bYE5v2C

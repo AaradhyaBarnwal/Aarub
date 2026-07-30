@@ -1,8 +1,11 @@
 # USB-Hub
 This is my first hardware project . It is a usb hub . I struggled a lot but some figured everything out . I loved it . It helped me understand hardware and this way I tried someting new. <img width="987" height="621" alt="image" src="https://github.com/user-attachments/assets/29f74519-9719-45e1-b25e-2646e491370d" />
-and, this is the schematic <img width="1090" height="501" alt="image" src="https://github.com/user-attachments/assets/7f0862f9-cf3b-459e-a283-e2e7cf2e279a" />
-and the pcb's front and back side<img width="1169" height="643" alt="image" src="https://github.com/user-attachments/assets/a541cf25-628c-40a8-9b87-ac7ed73528d2" />
-<img width="1123" height="607" alt="image" src="https://github.com/user-attachments/assets/beb10319-ae2c-4e0c-8ba3-443f08c4093f" />
+and, this is the schematic <img width="2362" height="1672" alt="SCH_Schematic1_1-P1_2026-07-31" src="https://github.com/user-attachments/assets/34d9db74-e9db-4d7f-ae90-378badec01f3" />
+
+and the pcb's front and back side
+<img width="954" height="508" alt="image" src="https://github.com/user-attachments/assets/44866ce1-42c3-434d-8705-b1da10645980" />
+<img width="890" height="436" alt="image" src="https://github.com/user-attachments/assets/15fb1569-dbd5-4957-9dc4-dc16f35edf19" />
+
 and the bom-
 | No. | Qty | Component                       | Designators                     | Footprint                      | Manufacturer / Supplier       |
 | --: | --: | ------------------------------- | ------------------------------- | ------------------------------ | ----------------------------- |

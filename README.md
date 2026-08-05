@@ -1,4 +1,4 @@
-# USB-Hub
+# Aarub
 A 4 downstream port USB-Hub with 2 USB-A ports and 2 USB-C ports for downstream. I made this while learning from the guide
 This is my first hardware project . It is a usb hub . I struggled a lot but some figured everything out . I loved it . It helped me understand hardware and this way I tried someting new. <img width="987" height="621" alt="image" src="https://github.com/user-attachments/assets/29f74519-9719-45e1-b25e-2646e491370d" />
 and, this is the schematic <img width="2362" height="1672" alt="SCH_Schematic1_1-P1_2026-07-31" src="https://github.com/user-attachments/assets/34d9db74-e9db-4d7f-ae90-378badec01f3" />
@@ -19,12 +19,8 @@ and the bom-
 
 
 
-<H1>and the below file is a interactive file of the bom<h2>
+# The below file is a interactive file of the bom
 [InteractiveBOM_PCB1_2026-7-20.html](https://github.com/user-attachments/files/30184428/InteractiveBOM_PCB1_2026-7-20.html)
-
-<h2>And these are the link of timelapses</h2>
-https://lapse.hackclub.com/timelapse/hZQMbSfOvOiV
-https://lapse.hackclub.com/timelapse/cVap4bYE5v2C
 
 
 and the gerber

@@ -41,5 +41,8 @@ and the gerber
 
 My lapse videos:
 https://lapse.hackclub.com/timelapse/hZQMbSfOvOiV
+
+# How to use 
+Connect the downstream type-C port of the Aarub to the PC using USB cable and then you can use two type-A device and two type-C devices by connecting them to Aarub
 https://lapse.hackclub.com/timelapse/cVap4bYE5v2C
 https://lapse.hackclub.com/timelapse/O_YezGmjKD0o

@@ -9,15 +9,21 @@ and the pcb's front and back side
 <img width="890" height="436" alt="image" src="https://github.com/user-attachments/assets/15fb1569-dbd5-4957-9dc4-dc16f35edf19" />
 
 and the bom-
-| No. | Qty | Component                       | Designators                     | Footprint                      | Manufacturer / Supplier       |
-| --: | --: | ------------------------------- | ------------------------------- | ------------------------------ | ----------------------------- |
-|   1 |   8 | **1 µF Capacitor**              | C1, C2, C3, C4, C5, C6, C8, C10 | C0603                          | Not specified                 |
-|   2 |   3 | **100 nF Capacitor**            | C7, C9, C11                     | C0603                          | Not specified                 |
-|   3 |   6 | **10 kΩ Resistor**              | R1–R6                           | R0603                          | Not specified                 |
-|   4 |   1 | **SL2.1s USB Hub IC**           | U1                              | SSOP-16                        | CoreChips (LCSC **C2684433**) |
-|   5 |   3 | **USB Type-C 16-pin Connector** | USB1, USB2, USB5                | USB-C-SMD_TYPE-C-16PIN-2MD-073 | SHOU HAN (LCSC **C2765186**)  |
-|   6 |   2 | **USB Type-A Connector**        | USB3, USB4                      | USB-A-TH_10.0QHHTZB6.3         | SHOU HAN (LCSC **C668591**)   |
 
+
+Designator,No.,Quantity,Comment,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,Price
+"C1,C2,C3,C4,C5,C6,C8,C10",1,8,1uf,C0603,1uf,,,,,$0.6160
+"C7,C9,C11",2,3,100nF,C0603,100nF,,,,,$0.3615
+"R1,R2,R3,R4,R5,R6",3,6,10K,R0603,10K,,,,,$0.0630
+U1,4,1,SL2.1s,SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL,,SL2.1s,CoreChips(和芯润德),C2684433,LCSC,$1.2540
+"USB1,USB2,USB5",5,3,TYPE-C 16PIN 2MD(073),USB-C-SMD_TYPE-C-16PIN-2MD-073,,TYPE-C 16PIN 2MD(073),SHOU HAN(首韩),C2765186,LCSC,$1.1776
+"USB3,USB4",6,2,10.0 QHHTZB6.3,USB-A-TH_10.0QHHTZB6.3,,10.0 QHHTZB6.3,SHOU HAN(首韩),C668591,LCSC,$0.7944
+,,,,,,,,,,
+PCB manufacturing,,,,,,,,,JLCPCB,$2
+PCBA,,,,,,,,,JLCPCB,$25.37
+Shipping,,,,,,,,,,$23.07
+,,,,,,,,,,
+,,,,,,,,Total,,$50.44
 
 
 # The below file is a interactive file of the bom

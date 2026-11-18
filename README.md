@@ -14,6 +14,15 @@ It has 4 downstream port
 why I made it??
 <li>I made it to start learning hardware explore more possibilities. And also get a cool pcb</li>
 
+<h2>Inspiration:</h2>
+<li>I have used a guide on macondo to make it.</li>
+
+<h2>What I struggled with?</h2>
+<li>It was wiring the top and bottom layer.</li>
+
+<h2>What I learned ?</h2>
+<li>I learned about the wiring , the basics of hardware , how a pcb works</li>
+
 and the pcb's front and back side
 <img width="954" height="508" alt="image" src="https://github.com/user-attachments/assets/44866ce1-42c3-434d-8705-b1da10645980" />
 <img width="890" height="436" alt="image" src="https://github.com/user-attachments/assets/15fb1569-dbd5-4957-9dc4-dc16f35edf19" />

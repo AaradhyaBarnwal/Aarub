@@ -4,6 +4,16 @@ This is my first hardware project . It is a usb hub . I struggled a lot but some
 <img width="987" height="621" alt="image" src="https://github.com/user-attachments/assets/29f74519-9719-45e1-b25e-2646e491370d" />
 and, this is the schematic <img width="2362" height="1672" alt="SCH_Schematic1_1-P1_2026-07-31" src="https://github.com/user-attachments/assets/34d9db74-e9db-4d7f-ae90-378badec01f3" />
 
+Features:
+It has 4 downstream port 
+<li>USB-hub with 2 USB-A ports</li>
+<li>And 2 USB-C ports</li>
+<li>All the ports are for downstream</li>
+<li>It has nickname as well</li>
+
+why I made it??
+<li>I made it to start learning hardware explore more possibilities. And also get a cool pcb</li>
+
 and the pcb's front and back side
 <img width="954" height="508" alt="image" src="https://github.com/user-attachments/assets/44866ce1-42c3-434d-8705-b1da10645980" />
 <img width="890" height="436" alt="image" src="https://github.com/user-attachments/assets/15fb1569-dbd5-4957-9dc4-dc16f35edf19" />
